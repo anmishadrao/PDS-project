@@ -1,12 +1,10 @@
-This project concentrates on understanding climate change, how it has been changing and predicting the climate change
+This project and predicting the class lable of brian tumor.
 
-In this project we used the data from 1750 to 2015 (source: Kaggle) to perform analysis and prediction
+In this project we used the data from Kaggle to perform testing and training.
 
 project folder structure:
 
-data_raw: consists of raw data which is not cleaned
-
-data_clean: holds the clean data
+dataset: consists of data which is used to train and test the model.
 
 src: holds the code files used for cleaning, analysis and prediction
 
