@@ -6,6 +6,6 @@ project folder structure:
 
 dataset: consists of data which is used to train and test the model.
 
-src: holds the code files used for cleaning, analysis and prediction
+src: holds the code files used for prediction
 
 results: holds the results we obtained from analysis and prediction
